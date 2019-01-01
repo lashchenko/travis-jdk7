@@ -3,6 +3,8 @@ scala:
   - 2.11.11
   - 2.12.2
 
+dist: xenial
+
 jdk:
   - oraclejdk7
   - oraclejdk8
