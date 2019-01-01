@@ -15,4 +15,4 @@ matrix:
     fast_finish: true
     exclude:
       - scala: 2.12.2
-        jdk: oraclejdk7
+        jdk: openjdk7
