@@ -3,10 +3,8 @@ scala:
   - 2.11.11
   - 2.12.2
 
-dist: precise
-
 jdk:
-  - oraclejdk7
+  - openjdk7
   - oraclejdk8
 
 branches:
