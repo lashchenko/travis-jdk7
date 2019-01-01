@@ -4,7 +4,7 @@ scala:
   - 2.12.2
 
 jdk:
-  - oraclejdk7
+  - openjdk7
   - oraclejdk8
 
 branches:
@@ -15,4 +15,4 @@ matrix:
     fast_finish: true
     exclude:
       - scala: 2.12.2
-        jdk: oraclejdk7
+        jdk: openjdk7
